@@ -35,3 +35,11 @@ Graphical ScreenSaver That Is Oddly Satisfying
 ## Programming Semester 2 Projects:
 
 
+### Number Guessing Game
+
+A Number Guessing Game Using User Input
+
+Number Guessing (<img width="433" alt="Screen Shot 2023-02-27 at 11 51 10 AM" src="https://user-images.githubusercontent.com/111790784/221656018-1da4ef7a-aa72-4efc-8b85-311e63405829.png">)
+
+ [Source Code] ([number.cpp.zip](https://github.com/DaCandyCorn/A3Programming/files/10843053/number.cpp.zip)
+)

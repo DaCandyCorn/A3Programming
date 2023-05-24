@@ -6,11 +6,13 @@
 Skill Certification Test 820
 
 ## Group Project
-###C++ Text Based Adventure
+### C++ Text Based Adventure
 Text based adventure involving time travel. Can you solve the problems of the time periods or will you fail and achieve one of many endings. A game filled with puzzle solving, secrets and colored ASCII art.
 
 Running Game. (<img width="1026" alt="Screen Shot 2023-05-24 at 11 43 01 AM" src="https://github.com/DaCandyCorn/A3Programming/assets/111790784/1356d24b-be42-43ed-9ed2-e042e82421ac">
 )
+
+https://github.com/DaCandyCorn/C-Text-Based-Adventure
 
 ## Programming Semester 1 Projects:
 
@@ -18,8 +20,8 @@ Running Game. (<img width="1026" alt="Screen Shot 2023-05-24 at 11 43 01 AM" src
 
 OOB  Graphical Calculator using processing
 
-![Calculator]  (<img width="399" alt="Screen Shot 2023-02-15 at 11 51 03 AM" src="https://user-images.githubusercontent.com/111790784/219124761-1a40838b-051c-4bb6-8090-128bb712e620.png">
-)
+Calculator  <img width="399" alt="Screen Shot 2023-02-15 at 11 51 03 AM" src="https://user-images.githubusercontent.com/111790784/219124761-1a40838b-051c-4bb6-8090-128bb712e620.png">
+
 
 [Source Code] ([Calculator 2.zip](https://github.com/DaCandyCorn/A3Programming/files/10746321/Calculator.2.zip)
 )

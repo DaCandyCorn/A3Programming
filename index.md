@@ -48,6 +48,13 @@ ScreenSaver <img width="1919" alt="Screen Shot 2022-10-12 at 11 56 40 AM" src="h
 
 ## Programming Semester 2 Projects:
 
+### 99 Bottles Of Root Beer
+
+A C++ take on the classic song 
+
+Running Example<img width="691" alt="Screen Shot 2023-05-24 at 11 59 44 AM" src="https://github.com/DaCandyCorn/A3Programming/assets/111790784/732bba08-efd4-4fd0-92e7-3b37454d7354">
+
+Link To Replit https://replit.com/@CARSONMEDSKER1/99Bottle
 
 ### Number Guessing Game
 

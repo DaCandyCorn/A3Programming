@@ -2,6 +2,9 @@
 
 ## Email: thecandycorn47@gmail.com
 
+## Certifications
+Skill Certification Test 820
+
 ## Programming Semester 1 Projects:
 
 ### Calculator Project

@@ -1,5 +1,7 @@
 # Welcome to Carson Medskers Programming Portfolio
 
+## Email: thecandycorn47@gmail.com
+
 ## Programming Semester 1 Projects:
 
 ### Calculator Project
